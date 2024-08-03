@@ -35,7 +35,7 @@
 		0155078D2C5E8B4F0014B92E = {
 			isa = PBXGroup;
 			children = (
-				015507982C5E8B4F0014B92E /* ToDoApp */,
+				015507982C5E8B4F0014B92E /* ToDoListApp */,
 				015507972C5E8B4F0014B92E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,7 +48,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		015507982C5E8B4F0014B92E /* ToDoApp */ = {
+		015507982C5E8B4F0014B92E /* ToDoListApp */ = {
 			isa = PBXGroup;
 			children = (
 				015507992C5E8B4F0014B92E /* ToDoListAppApp.swift */,
@@ -56,7 +56,7 @@
 				0155079D2C5E8B510014B92E /* Assets.xcassets */,
 				0155079F2C5E8B510014B92E /* Preview Content */,
 			);
-			path = ToDoApp;
+			path = ToDoListApp;
 			sourceTree = "<group>";
 		};
 		0155079F2C5E8B510014B92E /* Preview Content */ = {
